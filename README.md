@@ -1,6 +1,6 @@
 ### Hello World, I'm yazan 👋
 
- <img align="right" alt="GIF" src="https://github.com/Yazan-Ayoub/Yazan-Ayoub/blob/main/coder1.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/Yazan-Ayoub/Yazan-Ayoub/blob/main/coder1.gif?raw=true" width="400" height="320" />
 
 ## I'm a Developer, Tester , Content Creator !
 
