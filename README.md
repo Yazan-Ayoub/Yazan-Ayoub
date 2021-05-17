@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Tester , Content Creator !
 
-- ✍ You can find my projects here [portfolio]
+- ✍ This is my play Ground .I try here some Code and some Idea so feel free to look at it , and your collaboration is always welcome. 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React , and Native
 - 👯 I’m looking to collaborate on open source
