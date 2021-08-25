@@ -4,13 +4,12 @@
 
 ## I'm a Developer, Tester , Content Creator !
 
-- ✍ This is my play Ground .I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
+- ✍ This is my new play Ground for 2020.I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
 - 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React , and Native
+- 🌱 I’m currently learning Cloud , and DevOps
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: he/Him
-- ⚡ Fun fact: I speak 3 languages ( English, Dotch, Arabic)
+- ⚡ I speak 3 languages ( English, Dotch, Arabic)
 ### Connect with me :
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yazan-ayoub-19aa12111/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yazan-Ayoub)                 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leventtech)
