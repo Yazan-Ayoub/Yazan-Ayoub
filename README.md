@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Tester , Content Creator !
 
-- ✍ This is my new play Ground for 2020.I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
+- ✍ This is my new play Ground .I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning Cloud , and DevOps
 - 👯 I’m looking to collaborate on open source
