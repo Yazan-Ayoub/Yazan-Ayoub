@@ -7,7 +7,7 @@
 - ✍ This is my new play Ground .I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning Cloud , and DevOps
-- 👯 I’m looking to collaborate on open source
+- 👯 I’m looking to collaborate on open source Projects
 - 💬 Ask me about ... Anything
 - ⚡ I speak 3 languages ( English, Dotch, Arabic)
 ### Connect with me :
