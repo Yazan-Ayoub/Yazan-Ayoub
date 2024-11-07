@@ -4,12 +4,11 @@
 
 ## I'm a Developer, Tester , Content Creator !
 
-- ✍ This is my new play Ground .I try here some Code and some Ideas so feel free to look at it , and your collaboration is always welcome. 
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning Cloud , and DevOps
-- 👯 I’m looking to collaborate on open source Projects
-- 💬 Ask me about ... Anything
-- ⚡ I speak 3 languages ( English, Dutch, Arabic)
+- ✍ Welcome to my playground! Here, I experiment with code and explore new ideas. Feel free to browse through my projects, and don't hesitate to jump in—collaboration is always welcome!
+- 🔭Currently, I'm working on my first book, while also diving deeper into the worlds of Cloud and DevOps.
+- 🌱 I'm passionate about learning, creating, and contributing, especially to open-source projects. Let's build something great together!
+- 💬 Got questions? Reach out anytime—I'm always up for a good conversation.
+- ⚡  Fun fact: I speak English, Dutch, and Arabic !
 ### Connect with me :
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yazan-ayoub-19aa12111/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yazan-Ayoub)                 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leventtech)
