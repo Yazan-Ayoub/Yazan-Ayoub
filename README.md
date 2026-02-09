@@ -2,10 +2,10 @@
 
  <img align="right" alt="GIF" src="https://github.com/Yazan-Ayoub/Yazan-Ayoub/blob/main/coder1.gif?raw=true" width="400" height="320" />
 
-## I'm a Developer, Tester , Content Creator !
+## I'm a Developer, FullStack , Content Creator !
 
 - ✍ Welcome to my playground! Here, I experiment with code and explore new ideas. Feel free to browse through my projects, and don't hesitate to jump in—collaboration is always welcome!
-- 🔭Currently, I'm working on my first book, while also diving deeper into the worlds of Cloud and DevOps.
+- 🔭Currently, I'm  diving deeper into the worlds of Cloud and DevOps.
 - 🌱 I'm passionate about learning, creating, and contributing, especially to open-source projects. Let's build something great together!
 - 💬 Got questions? Reach out anytime—I'm always up for a good conversation.
 - ⚡  Fun fact: I speak English, Dutch, and Arabic !
