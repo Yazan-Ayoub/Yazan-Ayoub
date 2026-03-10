@@ -1,62 +1,102 @@
-### Hello World, I'm yazan 👋
+<div align="center">
 
- <img align="right" alt="GIF" src="https://github.com/Yazan-Ayoub/Yazan-Ayoub/blob/main/coder1.gif?raw=true" width="400" height="320" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║              YAZAN AYOUB  //  SENIOR SOFTWARE ENGINEER       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-## I'm a Developer, FullStack , Content Creator !
+**`Architecting scalable back-end systems · Bridging .NET and AI`**
 
-- ✍ Welcome to my playground! Here, I experiment with code and explore new ideas. Feel free to browse through my projects, and don't hesitate to jump in—collaboration is always welcome!
-- 🔭Currently, I'm  diving deeper into the worlds of Cloud and DevOps.
-- 🌱 I'm passionate about learning, creating, and contributing, especially to open-source projects. Let's build something great together!
-- 💬 Got questions? Reach out anytime—I'm always up for a good conversation.
-- ⚡  Fun fact: I speak English, Dutch, and Arabic !
-### Connect with me :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-ayoub-19aa12111/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Yazan-Ayoub)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/leventtech)
+[![Website](https://img.shields.io/badge/leventtech.com-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://leventtech.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yazan-ayoub-19aa12111/)      [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Yazan-Ayoub)                 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/leventtech)
+</div>
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-
-<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="AWS" width="42px" src="https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E"/>
-<img align="left" alt="Azure" width="42px" hight="32px" src="https://img.shields.io/badge/-Azure-fff?&logo=Microsoft-Azure&logoColor=blue" />                                                                                                                    
-<br />
-<br />
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## `$ whoami`
 
-  <img align="left" alt="Yazan-Ayoub GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Yazan-Ayoub&show_icons=true&hide_border=true" />
+Results-driven **Senior Full-Stack Engineer** with 8+ years of experience designing and delivering production-grade systems. I specialize in the **.NET ecosystem** — building robust, high-throughput APIs and back-end services — while actively bridging the gap between classical software architecture and modern **AI-driven applications**.
 
-</details>
+Currently expanding into **Cloud & DevOps**, with hands-on experience across AWS and Azure. I'm a strong advocate for clean architecture, testability, and systems that scale gracefully under pressure.
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
+> *"Software is only as good as the architecture it rests on."*
 
-<img align="left" alt="yazan GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-Ayoub" />
+---
 
-</details>
+## `$ cat expertise.json`
 
-[website]: https://leventtech.com
-[youtube]: https://www.youtube.com
-[instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com/in/yazan-ayoub-19aa12111/
-[portfolio]: https://Yazan-Ayoub.github.io/profile/
+```json
+{
+  "core": ["C#", ".NET 8", "ASP.NET Core", "Entity Framework Core"],
+  "ai_integration": ["LLM APIs", "Semantic Kernel", "AI-powered REST APIs"],
+  "frontend": ["React", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+  "databases": ["PostgreSQL", "SQL Server", "Redis"],
+  "devops_cloud": ["Docker", "AWS", "Azure", "CI/CD", "GitHub Actions"],
+  "backend_extras": ["Python", "Flask", "Node.js"],
+  "practices": ["Clean Architecture", "CQRS", "DDD", "TDD", "Microservices"],
+  "languages": ["English", "Dutch", "Arabic"]
+}
+```
 
+---
+
+## `$ ls -la /skills`
+
+| Domain | Stack |
+|---|---|
+| **Back-End Engineering** | `C#` `ASP.NET Core` `EF Core` `.NET 8` `REST` `gRPC` |
+| **AI & Intelligent Systems** | `LLM Integration` `Semantic Kernel` `Vector DBs` `Prompt Engineering` |
+| **Frontend** | `React` `TypeScript` `JavaScript` `CSS3` |
+| **Data & Persistence** | `PostgreSQL` `SQL Server` `Redis` `EF Core Migrations` |
+| **Cloud & Infrastructure** | `AWS` `Azure` `Docker` `Kubernetes (learning)` |
+| **Architecture Patterns** | `Clean Architecture` `CQRS` `DDD` `Microservices` `Event-Driven` |
+
+---
+
+## `$ git log --oneline --focus`
+
+- 🏗️ **Architecting** scalable .NET back-end services powering high-traffic production environments
+- 🤖 **Integrating AI** into enterprise workflows — connecting LLMs to real business logic via robust APIs
+- ☁️ **Deepening expertise** in Cloud-native patterns and DevOps automation (AWS · Azure · Docker)
+- 🌍 **Contributing** to open-source and sharing knowledge via articles and community engagement
+- 🤝 **Collaborating** across teams to deliver systems that are maintainable, observable, and fast
+
+---
+
+## `$ cat /metrics/github`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yazan-Ayoub&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-Ayoub&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Yazan-Ayoub&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## `$ ping yazan`
+
+I'm always open to discussing **architecture challenges**, **AI integration patterns**, and interesting engineering problems. Whether it's a quick technical exchange or a deeper collaboration — reach out.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yazan-ayoub-19aa12111/)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Last updated: 2026 · Built with precision, not templates.</sub>
+</div>
 
