@@ -1,5 +1,5 @@
 <h1 align="center">Yazan Ayoub</h1>
-<h3 align="center">Senior Software Engineer · .NET </h3>
+<h3 align="center">Senior Software Engineer .NET </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yazan-ayoub-19aa12111/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ## About Me
 
-Results-driven **Senior Full-Stack Engineer** with 8+ years of experience designing and delivering production-grade systems. I specialize in the **.NET ecosystem**  building robust, high-throughput APIs and back-end services  while actively bridging the gap between classical software architecture and modern **AI-driven applications**.
+Results-driven **Senior Full-Stack Engineer** with 10+ years of experience designing and delivering production-grade systems. I specialize in the **.NET ecosystem**  building robust, high-throughput APIs and back-end services  while actively bridging the gap between classical software architecture and modern **AI-driven applications**.
 
 Currently deepening expertise in **Cloud & DevOps**, with hands-on experience across AWS and Azure. Strong advocate for clean architecture, testability, and systems that scale gracefully under pressure.
 
